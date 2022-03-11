@@ -5,34 +5,28 @@ This Flutter application organizes individual tasks and steps of a project.
 Also a list of tasks you need to perform or things you want to do.
 
 
-## Screenshots
+## Video
 
-
+https://user-images.githubusercontent.com/101415557/157953841-b5088165-a1d2-462a-a051-8c672d050f0a.mp4
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/enisgjini/todo-s.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd todo-s
 ```
 
-Install dependencies
+Open Visual Studio Code
 
 ```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  code .
 ```
 
 
