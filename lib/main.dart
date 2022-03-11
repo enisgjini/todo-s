@@ -13,7 +13,7 @@ class App extends StatelessWidget {
         // This code remove a banner who show debugmode
         debugShowCheckedModeBanner: false,
         // This code add to our project a title
-        title: 'Lista e detyrave',
+        title: "ToDo's",
         // This code needed to show a route of our app so this is default route
         home: TodoList());
   }
