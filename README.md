@@ -1,16 +1,35 @@
-# todo
 
-A new Flutter project.
+# ToDo's
 
-## Getting Started
+This Flutter application organizes individual tasks and steps of a project.
+Also a list of tasks you need to perform or things you want to do.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/101415557/157953841-b5088165-a1d2-462a-a051-8c672d050f0a.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/enisgjini/todo-s.git
+```
+
+Go to the project directory
+
+```bash
+  cd todo-s
+```
+
+Open Visual Studio Code
+
+```bash
+  code .
+```
+
+
+## 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
